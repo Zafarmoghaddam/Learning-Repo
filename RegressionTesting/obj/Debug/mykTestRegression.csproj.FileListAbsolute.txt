@@ -1,0 +1,15 @@
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\mykonosUnitTest.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\mykonosUnitTest.pdb
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\AdiCmdServerClient.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\Analog.Driver.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\DotNETRoutines.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\iTextSharp.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\nunit.framework.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\visaWrapper.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\bin\Debug\nunit.framework.xml
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\obj\Debug\mykTestRegression.csprojResolveAssemblyReference.cache
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\obj\Debug\mykonosUnitTest.dll.licenses
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\obj\Debug\mykonosUnitTest.dll
+C:\Users\pzafarmo\Documents\MYKONOS\Workspace\test\RegressionTest_Sln\RegressionTesting\obj\Debug\mykonosUnitTest.pdb
