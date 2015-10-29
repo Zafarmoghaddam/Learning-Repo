@@ -1,6 +1,5 @@
 Test1 Text File 
-<<<<<<< HEAD
+
 Original Test1 file with a line showing for the mater branch
-=======
 One line is added
->>>>>>> test1
+
