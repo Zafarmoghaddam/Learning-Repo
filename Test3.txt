@@ -1,5 +1,6 @@
 Test3 Text File 
 
+<<<<<<< HEAD
 Add a line to Tes3, for push process
 
 Add a secoond line for push process
@@ -9,4 +10,11 @@ Add another line for cherry-pick
 
 add line for merge test
 
+=======
+add line merge test
+
+addning another line for merge test
+
+addming another line for merge testing
+>>>>>>> Test2
 
