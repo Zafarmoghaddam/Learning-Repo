@@ -1,1 +1,3 @@
 Test3 Text File 
+
+add line merge test
