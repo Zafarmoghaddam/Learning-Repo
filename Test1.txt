@@ -7,3 +7,6 @@ Second line is added to the Test1 file
 
 
 Make a diffrence betweek test1 fime in aster and Test1 directory
+
+adding line for merge test
+
